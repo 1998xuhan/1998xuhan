@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Xu Han</h1>
-<h3 align="center">I code with purpose and analyze with passion</h3>
+<h3 align="center">I code with purpose and analyse with passion</h3>
+
+- 🛠️  I’m currently working on **building my expertise in SQL and Python**
+
+- 📫 Reach me at **xuhannn23@gmail.com**
+
+- 🐾 Fun fact **I love animals !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
