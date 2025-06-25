@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Xu Han</h1>
+<h1 align="center">Hi 👋, I'm Xu Han !</h1>
 <h3 align="center">I code with purpose and analyse with passion</h3>
 
 - 🛠️  I’m currently working on **building my expertise in SQL and Python**
